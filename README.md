@@ -1,4 +1,8 @@
-our code is build upon open-sora (https://github.com/hpcaitech/Open-Sora), with the following features
+
+**[!New]** Our paper: Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing is accepted by ICML 2025 [Arxiv Link](https://arxiv.org/abs/2411.16375v2).
+
+
+Our code is build upon open-sora (https://github.com/hpcaitech/Open-Sora), with the following features
  - autoregressive video generation, i.e., generating subsequent clips conditioned on last frames of
 previous clip
  - calsual generaion (by causal temporal attention)
