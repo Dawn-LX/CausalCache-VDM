@@ -33,3 +33,17 @@ bash scripts/train.sh \
 refer to `scripts/train.sh` to config the `ROOT_DATA_DIR`
 
 The code is preparing
+
+
+## Citation
+If you find this code is helpful, please cite our paper:
+
+```
+@inproceedings{gao2025ca2,
+  title={Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing},
+  author={Gao, Kaifeng and Shi, Jiaxin and Zhang, Hanwang and Wang, Chunping and Xiao, Jun and Chen, Long},
+  booktitle={ICML},
+  year={2025},
+  organization={PMLR}
+}
+```
